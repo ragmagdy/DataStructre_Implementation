@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1564761028 source:c:\users\ragab magdy\documents\codeblocks\linkedlist-v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linked_list.h"
+
+1564761108 source:c:\users\ragab magdy\documents\codeblocks\linkedlist-v1\linked_list.c
+	"linked_list.h"
+
+1564760770 c:\users\ragab magdy\documents\codeblocks\linkedlist-v1\linked_list.h
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+
